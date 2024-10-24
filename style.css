@@ -5,6 +5,20 @@
     margin-left:25cm;
     margin-top: -5px;
 }
-.singup1 {
-    margin-left:12cm;
+.heading {
+    margin: 40px;
+    text-align: center;
+    color:white;
+    background-color:blue
+}
+form {
+    background-color: grey;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    margin: auto;
+    bottom: auto;
+}
+.do{
+    margin-left:2cm;
 }
